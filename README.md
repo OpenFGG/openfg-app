@@ -8,11 +8,11 @@
 |---|---|
 | **Android** | 10 or newer (11+ recommended) |
 | **Root** | KernelSU **or** Magisk, with **Zygisk** enabled |
-| **CPU / ABI** | arm64 (64-bit) — every modern phone |
+| **CPU / ABI** | arm64 (64-bit) or arm32 (32-bit) |
 | **Graphics** | OpenGL ES 3.0+ or Vulkan games |
 
-**Tested on:** Qualcomm Snapdragon / Adreno. Other GPUs (Mali, Xclipse, PowerVR) are expected to work
-but aren't verified yet. **Not supported:** emulators (no x86), 32-bit-only devices.
+**Tested on:** Qualcomm Snapdragon / Adreno and Arm Mali. Other GPUs (Xclipse, PowerVR) are expected to
+work but aren't verified yet. **Not supported:** emulators (no x86).
 
 ## Install
 
