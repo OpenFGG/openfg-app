@@ -12,7 +12,8 @@
 | **Graphics** | OpenGL ES 3.0+ or Vulkan games |
 
 **Tested on:** Qualcomm Snapdragon / Adreno and Arm Mali. Other GPUs (Xclipse, PowerVR) are expected to
-work but aren't verified yet. **Not supported:** emulators (no x86).
+work but aren't verified yet. **Emulators:** supported — BannerHub, GameNative, Winlator and PPSSPP
+tested; Eden/Cemu not yet supported.
 
 ## Install
 
@@ -23,6 +24,8 @@ work but aren't verified yet. **Not supported:** emulators (no x86).
 4. **Play** — launch a selected game. A small on-screen counter (real / generated FPS) confirms frame
    generation is active. **Extended FPS counter** — optionally show the game's graphics API, real screen
    refresh rate, CPU, GPU, RAM and temperature next to the FPS (pick each one in Global settings).
+   **HDR mode** — per-game option on HDR screens: highlights push past normal screen white, with
+   brightness, highlight boost, shadow depth, contrast and saturation sliders.
 
 To disable it for a game, toggle it off in the app and restart that game.
 
