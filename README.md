@@ -1,9 +1,5 @@
 ![OpenFG](openfg-readme-hero.png)
 
-# OpenFG
-
-**Interpolated frame generation for Android games.**
-
 ## Compatibility
 
 | Requirement | |
