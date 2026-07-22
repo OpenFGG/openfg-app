@@ -19,11 +19,8 @@ and Citra tested.
    `openfg-<version>-release.zip` → **reboot**.
 2. **Install the app** — install `openfg-app-<version>.apk`.
 3. **Pick your games** — open the **OpenFG** app and toggle on the games you want enhanced.
-4. **Play** — launch a selected game. A small on-screen counter (real / generated FPS) confirms frame
-   generation is active. **Extended FPS counter** — optionally show the game's graphics API, real screen
-   refresh rate, CPU, GPU, RAM and temperature next to the FPS (pick each one in Global settings).
-   **HDR mode** — per-game option on HDR screens: highlights push past normal screen white, with
-   brightness, highlight boost, shadow depth, contrast and saturation sliders.
+4. **Play** — Launch a selected game. A small on-screen counter (real / generated FPS) confirms frame
+   generation is active.
 
 To disable it for a game, toggle it off in the app and restart that game.
 
