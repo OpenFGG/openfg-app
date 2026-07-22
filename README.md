@@ -1,3 +1,5 @@
+![OpenFG](openfg-readme-hero.png)
+
 # OpenFG
 
 **Interpolated frame generation for Android games.**
@@ -12,8 +14,8 @@
 | **Graphics** | OpenGL ES 3.0+ or Vulkan games |
 
 **Tested on:** Qualcomm Snapdragon / Adreno and Arm Mali. Other GPUs (Xclipse, PowerVR) are expected to
-work but aren't verified yet. **Emulators:** supported — BannerHub, GameNative, Winlator and PPSSPP
-tested; Eden/Cemu not yet supported.
+work but aren't verified yet. **Emulators:** supported — BannerHub, GameNative, Winlator, PPSSPP, Eden
+and Citra tested.
 
 ## Install
 
